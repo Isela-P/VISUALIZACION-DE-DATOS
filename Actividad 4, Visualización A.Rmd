@@ -193,6 +193,6 @@ Evaluando los parámetros de forma individual podemos observar que ninguno se se
 Es por ello que las autoridades deben realizar trabajos de regulación de contaminantes así como tratamiento de aguas con la finalidad de cuidar la salud de los pobladores y por supuesto el medio ambiente.
 
 Enlace a mi proyecto en GITHUB:
-<
+<https://github.com/Isela-P/VISUALIZACION-DE-DATOS>
 
 
